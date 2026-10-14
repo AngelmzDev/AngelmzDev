@@ -1,4 +1,4 @@
-<img src="assets/header.webp" alt="Abstract silver ribbons against a deep blue background" width="100%" />
+<img src="assets/header.webp" alt="La gran ola de Hokusai y el monte Fuji, con la cita «Cualquier tecnología suficientemente avanzada es indistinguible de la magia», de Arthur C. Clarke" width="100%" />
 
 <h1 align="center">AngelmzDev</h1>
 
