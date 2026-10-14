@@ -4,12 +4,12 @@
 
 <p align="center">
   Multiplatform Application Development student · Spain<br />
-  Learning Java and building a foundation in software development.
+  Learning to design and build applications across platforms.
 </p>
 
 ## About Me
 
-I'm currently studying Multiplatform Application Development (DAM). My focus is on understanding programming fundamentals and improving how I reason through problems, one concept at a time.
+I'm studying Multiplatform Application Development (DAM) in Spain. The programme spans programming, databases, interfaces, mobile development, and services. My goal is to bring these areas together in complete applications. Java is my current focus.
 
 ## Tech & Tools
 
@@ -17,11 +17,12 @@ Tools I use in my studies:
 
 ![IntelliJ IDEA](assets/intellij-idea.svg) ![Git](assets/git.svg) ![GitHub](assets/github.svg)
 
-## Currently Learning
+## What I'm Working Toward
 
-- **Java fundamentals** — variables, data types, operators, and strings.
-- **Control flow** — conditional statements and loops.
-- **Programming logic** — breaking problems into smaller steps and reasoning through solutions.
+- **Application development** — designing and building software for different platforms.
+- **Data** — working with databases and connecting applications to them.
+- **Interfaces and mobile** — creating usable interfaces and applications for mobile devices.
+- **Services and processes** — understanding how applications communicate and handle concurrent work.
 
 ## GitHub Activity
 
