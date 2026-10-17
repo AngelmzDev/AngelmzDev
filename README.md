@@ -176,11 +176,25 @@ Sources: [the center’s official curriculum](https://cesjuanpablosegundo.es/cur
 
 ###
 
+<h3 data-importer="text" align="center">👾 Pac-Man Contribution Graph</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/pacman-dark.svg" />
+    <img src="assets/pacman-light.svg" alt="Animated Pac-Man game based on AngelmzDev's GitHub contributions" width="100%" />
+  </picture>
+</p>
+
+<p align="center"><sub>Updated daily · Generated with <a href="https://github.com/abozanona/pacman-contribution-graph">Pac-Man Contribution Graph</a></sub></p>
+
+###
+
 <h2 data-importer="text" align="center">🎙️ Café y Bytes · Let's Connect</h2>
 
 <p data-importer="text" align="center">I share content about technology, automation, and programming through Café y Bytes on YouTube and TikTok. To talk about my projects or software development opportunities, use the contact links above.</p>
 
 <!-- The streak cards are refreshed daily by .github/workflows/update-streak.yml. -->
+
 
 
 
