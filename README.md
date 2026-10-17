@@ -29,7 +29,7 @@
 
 ###
 
-<h2 data-importer="text" align="center">🧭 Technologies & Tools · Development Roadmap</h2>
+<h2 data-importer="text" align="center">🧭 Technologies & Tools · Development Roadmap 2026/2027</h2>
 
 <p data-importer="text" align="center">Java is my current hands-on focus. The other technologies are part of my development roadmap; my experience level varies across them.</p>
 
