@@ -1,39 +1,39 @@
-<img src="assets/header.webp" alt="La gran ola de Hokusai y el monte Fuji, con la cita «Cualquier tecnología suficientemente avanzada es indistinguible de la magia», de Arthur C. Clarke" width="100%" />
+<img src="assets/header.webp" alt="The Great Wave and Mount Fuji, with Arthur C. Clarke’s quote: “Any sufficiently advanced technology is indistinguishable from magic”" width="100%" />
 
-<h1 data-importer="text" align="center">Hey 👋 Soy Ángel Menendez</h1>
+<h1 data-importer="text" align="center">Hey 👋 I'm Ángel Menendez</h1>
 
-<h3 data-importer="text" align="center">Desarrollador de software · AngelmzDev</h3>
+<h3 data-importer="text" align="center">Software Developer · AngelmzDev</h3>
 
-<p data-importer="text" align="center">Herramientas útiles, automatización y aplicaciones que resuelven tareas cotidianas.</p>
+<p data-importer="text" align="center">Useful tools, automation, and applications that solve everyday problems.</p>
 
 ###
 
 <div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/angelmzz/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn de Ángel Menendez" /></a>
-  <a href="https://www.youtube.com/@cafeybytes" target="_blank"><img src="https://img.shields.io/static/v1?message=Cafe%20y%20Bytes&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Canal Café y Bytes en YouTube" /></a>
-  <a href="https://www.tiktok.com/@cafeybytes_youtube" target="_blank"><img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=111111&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Café y Bytes en TikTok" /></a>
-  <a href="https://angelmzdev.github.io/" target="_blank"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Mi portfolio" /></a>
-  <a href="mailto:zerozeid@duck.com"><img src="https://img.shields.io/static/v1?message=Contacto&logo=maildotru&label=&color=6D28D9&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Contactar por correo" /></a>
-  <a href="https://t.me/ImZerozeid" target="_blank"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=26A5E4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Mi Telegram" /></a>
+  <a href="https://www.linkedin.com/in/angelmzz/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Ángel Menendez on LinkedIn" /></a>
+  <a href="https://www.youtube.com/@cafeybytes" target="_blank"><img src="https://img.shields.io/static/v1?message=Cafe%20y%20Bytes&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Café y Bytes on YouTube" /></a>
+  <a href="https://www.tiktok.com/@cafeybytes_youtube" target="_blank"><img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=111111&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Café y Bytes on TikTok" /></a>
+  <a href="https://angelmzdev.github.io/" target="_blank"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="My portfolio" /></a>
+  <a href="mailto:zerozeid@duck.com"><img src="https://img.shields.io/static/v1?message=Contact&logo=maildotru&label=&color=6D28D9&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Contact me by email" /></a>
+  <a href="https://t.me/ImZerozeid" target="_blank"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=26A5E4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="My Telegram" /></a>
 </div>
 
 ###
 
-<h2 data-importer="text" align="center">☕ Mi foco actual: Java</h2>
+<h2 data-importer="text" align="center">☕ Currently focused on Java</h2>
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo" />
 </div>
 
-<p data-importer="text" align="center">Actualmente estoy centrado en Java: lógica de programación, fundamentos y programación orientada a objetos.</p>
+<p data-importer="text" align="center">I am currently focused on Java: programming logic, core concepts, and object-oriented programming.</p>
 
 ###
 
-<h2 data-importer="text" align="center">🧭 Tecnologías y herramientas · Ruta técnica</h2>
+<h2 data-importer="text" align="center">🧭 Technologies & Tools · Development Roadmap</h2>
 
-<p data-importer="text" align="center">Mi foco práctico actual es Java. El resto forma parte de mi ruta de desarrollo; el nivel de experiencia varía entre tecnologías.</p>
+<p data-importer="text" align="center">Java is my current hands-on focus. The other technologies are part of my development roadmap; my experience level varies across them.</p>
 
-<h3 data-importer="text" align="center">Lenguajes de programación</h3>
+<h3 data-importer="text" align="center">Programming Languages</h3>
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="Java" />
@@ -53,17 +53,17 @@
 
 <p data-importer="text" align="center">Java · C# / .NET · JavaScript / TypeScript · Kotlin · Python</p>
 
-<h3 data-importer="text" align="center">Frontend y desarrollo móvil</h3>
+<h3 data-importer="text" align="center">Frontend & Mobile Development</h3>
 
 <div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React y React Native" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React and React Native" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60" alt="Android" />
 </div>
 
-<p data-importer="text" align="center">React · React Native · Android con Kotlin o Java</p>
+<p data-importer="text" align="center">React · React Native · Android with Kotlin or Java</p>
 
-<h3 data-importer="text" align="center">Bases de datos y acceso a datos</h3>
+<h3 data-importer="text" align="center">Databases & Data Access</h3>
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="60" alt="SQL" />
@@ -77,9 +77,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="60" alt="Hibernate" />
 </div>
 
-<p data-importer="text" align="center">SQL · MySQL / PostgreSQL / Oracle · Conectores y ORM: Hibernate / Entity Framework</p>
+<p data-importer="text" align="center">SQL · MySQL / PostgreSQL / Oracle · Connectors and ORMs: Hibernate / Entity Framework</p>
 
-<h3 data-importer="text" align="center">Lenguajes de marcas y datos</h3>
+<h3 data-importer="text" align="center">Markup & Data Formats</h3>
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" />
@@ -93,7 +93,7 @@
 
 <p data-importer="text" align="center">HTML5 · CSS3 · XML · JSON</p>
 
-<h3 data-importer="text" align="center">Gestión empresarial</h3>
+<h3 data-importer="text" align="center">Business Management</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/ERP-Odoo-714B67?style=for-the-badge" height="30" alt="ERP · Odoo" />
@@ -101,16 +101,12 @@
   <img src="https://img.shields.io/badge/ERP-SAP-0FAAFF?style=for-the-badge" height="30" alt="ERP · SAP" />
 </p>
 
-<p data-importer="text" align="center">Sistemas ERP/CRM · Odoo y SAP como referencias de gestión empresarial</p>
+<p data-importer="text" align="center">ERP/CRM systems · Odoo and SAP as business management references</p>
 
-<h3 data-importer="text" align="center">Entornos de desarrollo y herramientas</h3>
+<h3 data-importer="text" align="center">IDEs & Development Tools</h3>
 
 <div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="60" alt="Eclipse" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="IntelliJ IDEA" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="60" alt="Visual Studio" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="Visual Studio Code" />
   <img width="12" />
@@ -119,71 +115,72 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git" />
 </div>
 
-<p data-importer="text" align="center">Eclipse · IntelliJ IDEA · Visual Studio / Visual Studio Code · Android Studio · Git</p>
+<p data-importer="text" align="center">IntelliJ IDEA · Visual Studio Code · Android Studio · Git</p>
 
 <details>
-<summary><strong>📚 Ver el recorrido completo de DAM · CES Juan Pablo II</strong></summary>
+<summary><strong>📚 View the full Cross-Platform Application Development (DAM) curriculum · CES Juan Pablo II</strong></summary>
 
-Los contenidos siguientes corresponden al programa publicado por el centro. No representan competencias ya completadas.
+The topics below follow the curriculum published by the training center. They do not represent skills already completed.
 
-| Primer curso | Segundo curso |
+| First Year | Second Year |
 | :--- | :--- |
-| Lenguajes de marcas y gestión de información | Acceso a datos |
-| Sistemas informáticos | Desarrollo de interfaces |
-| Bases de datos | Programación multimedia y dispositivos móviles |
-| Programación | Programación de servicios y procesos |
-| Entornos de desarrollo | Sistemas de gestión empresarial · ERP/CRM |
-| Inglés profesional | Itinerario personal para la empleabilidad II |
-| Digitalización aplicada al sector productivo | Optatividad |
-| Sostenibilidad aplicada al sistema productivo | Proyecto intermodular |
-| Itinerario personal para la empleabilidad I | |
-| Proyecto intermodular | |
+| Markup Languages & Information Management | Data Access |
+| Computer Systems | User Interface Development |
+| Databases | Multimedia & Mobile Development |
+| Programming | Service & Process Programming |
+| Development Environments | Business Management Systems · ERP/CRM |
+| Professional English | Personal Employability Pathway II |
+| Digitalization in the Productive Sector | Elective Module |
+| Sustainability in the Productive System | Cross-Module Project |
+| Personal Employability Pathway I | |
+| Cross-Module Project | |
 
-El recorrido abarca aplicaciones, interfaces, datos, servicios, multimedia, dispositivos móviles y gestión empresarial.
+The roadmap covers applications, interfaces, data, services, multimedia, mobile devices, and business management.
 
-Fuentes: [programa oficial del centro](https://cesjuanpablosegundo.es/cursos/grado-superior-en-desarrollo-de-aplicaciones-multiplataforma/) · [SQL, React y React Native en DAM](https://cesjuanpablosegundo.es/estudia-desarrollo-de-aplicaciones-multiplataforma-dam/).
+Sources: [the center’s official curriculum](https://cesjuanpablosegundo.es/cursos/grado-superior-en-desarrollo-de-aplicaciones-multiplataforma/) · [SQL, React, and React Native in DAM](https://cesjuanpablosegundo.es/estudia-desarrollo-de-aplicaciones-multiplataforma-dam/).
 
 </details>
 
 ###
 
-<h2 data-importer="text" align="center">🚀 Proyectos y recursos públicos</h2>
+<h2 data-importer="text" align="center">🚀 Public Projects & Resources</h2>
 
-| Proyecto | Qué encontrarás | Explorar |
+| Project | What You Will Find | Explore |
 | :--- | :--- | :--- |
-| 📸 **Instagram Auto Publisher** | Guía paso a paso y prompts para construir con IA un publicador de carruseles en Python usando la API oficial de Instagram. Incluye el diseño del flujo de validación, publicación y autenticación. | [Ver guía ↗](https://github.com/AngelmzDev/instagram-auto-publisher) |
-| 🪟 **Awtop** | Utilidad para Windows que permite elegir una ventana y mantenerla visible sobre las demás, con opción de retirar la prioridad. | [Código y uso ↗](https://github.com/AngelmzDev/Awtop) |
-| 🛡️ **Cyber-Conquest** | Entorno de práctica de ciberseguridad con contenidos organizados por áreas e interfaces de terminal y web en Python. | [Código y documentación ↗](https://github.com/AngelmzDev/Cyber-Conquest) |
-| 🔎 **Wazuh SOC Lab** | Documentación de un laboratorio de seguridad con Wazuh sobre Ubuntu Server y una utilidad de administración. | [Ver laboratorio ↗](https://github.com/AngelmzDev/Wazuh-SOC-lab) |
-| 🌐 **Portfolio personal** | Web donde presento mis proyectos, su propósito y mis enlaces de contacto. | [Código ↗](https://github.com/AngelmzDev/AngelmzDev.github.io) · [Visitar ↗](https://angelmzdev.github.io/) |
+| 📸 **Instagram Auto Publisher** | A step-by-step guide and prompts for building an AI-assisted Python carousel publisher using the official Instagram API. Covers validation, publishing, and authentication workflows. | [Read the guide ↗](https://github.com/AngelmzDev/instagram-auto-publisher) |
+| 🪟 **Awtop** | A Windows utility that keeps a selected window above the others and lets you remove its always-on-top status. | [Code & usage ↗](https://github.com/AngelmzDev/Awtop) |
+| 🛡️ **Cyber-Conquest** | A cybersecurity practice environment with topic-based content and Python terminal and web interfaces. | [Code & documentation ↗](https://github.com/AngelmzDev/Cyber-Conquest) |
+| 🔎 **Wazuh SOC Lab** | Documentation for a Wazuh security lab on Ubuntu Server, including an administration utility. | [Explore the lab ↗](https://github.com/AngelmzDev/Wazuh-SOC-lab) |
+| 🌐 **Personal Portfolio** | My website presenting my projects, their purpose, and ways to get in touch. | [Source code ↗](https://github.com/AngelmzDev/AngelmzDev.github.io) · [Visit ↗](https://angelmzdev.github.io/) |
 
-<p data-importer="text" align="left">En el portfolio también describo mi automatización de vídeos y mi extensión para automatizar el envío de prompts en Meta.ai.</p>
+<p data-importer="text" align="left">My portfolio also describes my video automation tool and my extension for automating prompt submission in Meta.ai.</p>
 
-<p data-importer="text" align="left">Parto de necesidades concretas y utilizo IA como apoyo para crear prototipos, explorar soluciones y documentar el proceso.</p>
+<p data-importer="text" align="left">I start with practical needs and use AI to support prototyping, explore solutions, and document the process.</p>
 
 ###
 
-<h2 data-importer="text" align="center">📊 Mi actividad en GitHub</h2>
+<h2 data-importer="text" align="center">📊 My GitHub Activity</h2>
 
 <div data-importer="stats" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AngelmzDev&theme=github_dark" height="180" alt="Estadísticas públicas de GitHub de AngelmzDev" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AngelmzDev&theme=github_dark" height="180" alt="Public GitHub statistics for AngelmzDev" />
 </div>
 
 <p align="center">
   <a href="https://github.com/AngelmzDev?tab=overview">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg" />
-      <img src="assets/streak-light.svg" alt="Racha de contribuciones de AngelmzDev en GitHub" width="495" height="195" />
+      <img src="assets/streak-light.svg" alt="GitHub contribution streak for AngelmzDev" width="495" height="195" />
     </picture>
   </a>
 </p>
 
 ###
 
-<h2 data-importer="text" align="center">🎙️ Café y Bytes · Hablemos</h2>
+<h2 data-importer="text" align="center">🎙️ Café y Bytes · Let's Connect</h2>
 
-<p data-importer="text" align="center">Comparto contenido sobre tecnología, automatización y programación en Café y Bytes, en YouTube y TikTok. Para conversar sobre mis proyectos u oportunidades de desarrollo de software, tienes mis enlaces de contacto arriba.</p>
+<p data-importer="text" align="center">I share content about technology, automation, and programming through Café y Bytes on YouTube and TikTok. To talk about my projects or software development opportunities, use the contact links above.</p>
 
 <!-- The streak cards are refreshed daily by .github/workflows/update-streak.yml. -->
+
 
 
