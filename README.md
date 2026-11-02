@@ -13,7 +13,7 @@
   <a href="https://www.youtube.com/@cafeybytes" target="_blank"><img src="https://img.shields.io/static/v1?message=Cafe%20y%20Bytes&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Café y Bytes on YouTube" /></a>
   <a href="https://www.tiktok.com/@cafeybytes_youtube" target="_blank"><img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=111111&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Café y Bytes on TikTok" /></a>
   <a href="https://angelmzdev.github.io/" target="_blank"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="My portfolio" /></a>
-  <a href="mailto:zerozeid@duck.com"><img src="https://img.shields.io/static/v1?message=Contact&logo=maildotru&label=&color=6D28D9&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Contact me by email" /></a>
+  <a href="mailto:amzzdev@proton.me"><img src="https://img.shields.io/static/v1?message=Contact&logo=maildotru&label=&color=6D28D9&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Contact me by email" /></a>
   <a href="https://t.me/ImZerozeid" target="_blank"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=26A5E4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="My Telegram" /></a>
 </div>
 
