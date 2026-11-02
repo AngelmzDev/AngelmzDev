@@ -137,15 +137,17 @@ Sources: [the center’s official curriculum](https://cesjuanpablosegundo.es/cur
 
 <h2 data-importer="text" align="center">🚀 Public Projects & Resources</h2>
 
-| Project | What You Will Find | Explore |
-| :--- | :--- | :--- |
-| 📸 **Instagram Auto Publisher** | A step-by-step guide and prompts for building an AI-assisted Python carousel publisher using the official Instagram API. Covers validation, publishing, and authentication workflows. | [Read the guide ↗](https://github.com/AngelmzDev/instagram-auto-publisher) |
-| 🪟 **Awtop** | A Windows utility that keeps a selected window above the others and lets you remove its always-on-top status. | [Code & usage ↗](https://github.com/AngelmzDev/Awtop) |
-| 🛡️ **Cyber-Conquest** | A cybersecurity practice environment with topic-based content and Python terminal and web interfaces. | [Code & documentation ↗](https://github.com/AngelmzDev/Cyber-Conquest) |
-| 🔎 **Wazuh SOC Lab** | Documentation for a Wazuh security lab on Ubuntu Server, including an administration utility. | [Explore the lab ↗](https://github.com/AngelmzDev/Wazuh-SOC-lab) |
-| 🌐 **Personal Portfolio** | My website presenting my projects, their purpose, and ways to get in touch. | [Source code ↗](https://github.com/AngelmzDev/AngelmzDev.github.io) · [Visit ↗](https://angelmzdev.github.io/) |
+| Preview | Project | What You Will Find | Explore |
+| :--- | :--- | :--- | :--- |
+| [<img src="assets/projects/codeflow-studio.webp" width="200" alt="CodeFlow Studio illustrated thumbnail" />](https://github.com/AngelmzDev/CodeFlow-Studio) | **CodeFlow Studio** | Local Java and Python program visualization: code, diagrams, and step-by-step execution. | [Explore ↗](https://github.com/AngelmzDev/CodeFlow-Studio) |
+| [<img src="assets/projects/instagram-auto-publisher.webp" width="200" alt="Instagram Auto Publisher illustrated thumbnail" />](https://github.com/AngelmzDev/instagram-auto-publisher) | **Instagram Auto Publisher** | Step-by-step guide and prompts for an AI-assisted Python carousel publisher using the official Instagram API. | [Explore ↗](https://github.com/AngelmzDev/instagram-auto-publisher) |
+| [<img src="assets/projects/awtop.webp" width="200" alt="Awtop illustrated thumbnail" />](https://github.com/AngelmzDev/Awtop) | **Awtop** | Windows utility to keep a selected window above the others and remove its always-on-top status. | [Explore ↗](https://github.com/AngelmzDev/Awtop) |
+| [<img src="assets/projects/java-mastery-notes.webp" width="200" alt="Java Mastery Notes illustrated thumbnail" />](https://github.com/AngelmzDev/Java-Mastery-Notes) | **Java Mastery Notes** | Personal Java study notes, visual diagrams, and practice exercises. | [Explore ↗](https://github.com/AngelmzDev/Java-Mastery-Notes) |
+| [<img src="assets/projects/cyber-conquest.webp" width="200" alt="Cyber-Conquest illustrated thumbnail" />](https://github.com/AngelmzDev/Cyber-Conquest) | **Cyber-Conquest** | Cybersecurity learning resources, challenges, and Python terminal and web interfaces. | [Explore ↗](https://github.com/AngelmzDev/Cyber-Conquest) |
+| [<img src="assets/projects/wazuh-soc-lab.webp" width="200" alt="Wazuh SOC Lab illustrated thumbnail" />](https://github.com/AngelmzDev/Wazuh-SOC-lab) | **Wazuh SOC Lab** | Wazuh security lab documentation on Ubuntu Server, including an administration utility. | [Explore ↗](https://github.com/AngelmzDev/Wazuh-SOC-lab) |
+| [<img src="assets/projects/personal-portfolio.webp" width="200" alt="Personal Portfolio illustrated thumbnail" />](https://angelmzdev.github.io/) | **Personal Portfolio** | Projects, learning journey, and contact information. | [Explore ↗](https://angelmzdev.github.io/) |
 
-<p data-importer="text" align="left">My portfolio also describes my video automation tool and my extension for automating prompt submission in Meta.ai.</p>
+<p data-importer="text" align="left">My portfolio brings together my projects, Java study resources, training, and experience in systems and networks.</p>
 
 <p data-importer="text" align="left">I start with practical needs and use AI to support prototyping, explore solutions, and document the process.</p>
 
