@@ -38,20 +38,14 @@
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="C#" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="60" alt=".NET" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="TypeScript" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="60" alt="Kotlin" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python" />
 </div>
 
-<p data-importer="text" align="center">Java · C# / .NET · JavaScript / TypeScript · Kotlin · Python</p>
+<p data-importer="text" align="center">Java · JavaScript · Kotlin · Python</p>
 
 <h3 data-importer="text" align="center">Frontend & Mobile Development</h3>
 
@@ -77,7 +71,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="60" alt="Hibernate" />
 </div>
 
-<p data-importer="text" align="center">SQL · MySQL / PostgreSQL / Oracle · Connectors and ORMs: Hibernate / Entity Framework</p>
+<p data-importer="text" align="center">SQL · MySQL / PostgreSQL / Oracle · Connectors and ORMs: Hibernate</p>
 
 <h3 data-importer="text" align="center">Markup & Data Formats</h3>
 
@@ -97,11 +91,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/ERP-Odoo-714B67?style=for-the-badge" height="30" alt="ERP · Odoo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/ERP-SAP-0FAAFF?style=for-the-badge" height="30" alt="ERP · SAP" />
 </p>
 
-<p data-importer="text" align="center">ERP/CRM systems · Odoo and SAP as business management references</p>
+<p data-importer="text" align="center">ERP/CRM systems · Odoo as the training center’s reference</p>
 
 <h3 data-importer="text" align="center">IDEs & Development Tools</h3>
 
